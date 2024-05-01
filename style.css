@@ -24,9 +24,10 @@ a{
     display: block;
     width: 150px;
     height: 50px;
-    background-color: rgb(113, 35, 207);
+    background-color:blueviolet;
     border-radius: 15px;
-    color:white;
+    color:aliceblue;
+    font-size: 20px;
     text-align: center;
     padding-top: 15px;
     
